@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_portafolio/static/css/main.88de1807.css",
+    "main.js": "/react_portafolio/static/js/main.0eb0aff4.js",
+    "static/media/profile.png": "/react_portafolio/static/media/profile.e04157e61b1565fe3357.png",
+    "static/media/socialapi.png": "/react_portafolio/static/media/socialapi.55aad6cd6583127963c8.png",
+    "static/media/burguerbase.png": "/react_portafolio/static/media/burguerbase.065284b7e4019fe27530.png",
+    "static/media/Curriculum_David_Dominguez.pdf": "/react_portafolio/static/media/Curriculum_David_Dominguez.8d5f8d0bbc3864aa5585.pdf",
+    "static/media/twitter.png": "/react_portafolio/static/media/twitter.a9924701cbf3c8858019.png",
+    "static/media/ecommerce.png": "/react_portafolio/static/media/ecommerce.7161a9ce12e09beac84f.png",
+    "static/media/notetaker.png": "/react_portafolio/static/media/notetaker.a5150c6d70a922faff91.png",
+    "static/media/github.png": "/react_portafolio/static/media/github.37b25e1ba70825b4348a.png",
+    "static/media/techblog.png": "/react_portafolio/static/media/techblog.0d8a7883a2413dc17ce7.png",
+    "index.html": "/react_portafolio/index.html",
+    "main.88de1807.css.map": "/react_portafolio/static/css/main.88de1807.css.map",
+    "main.0eb0aff4.js.map": "/react_portafolio/static/js/main.0eb0aff4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88de1807.css",
+    "static/js/main.0eb0aff4.js"
+  ]
+}
