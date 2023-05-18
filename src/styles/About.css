@@ -1,0 +1,7 @@
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%; /* this will make the image circular */
+    object-fit: cover; /* this will ensure the image is resized to fit the container while maintaining its aspect ratio */
+}
+  

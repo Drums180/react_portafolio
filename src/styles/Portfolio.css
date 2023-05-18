@@ -1,0 +1,8 @@
+.card a div {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .card a:hover div {
+    transform: scale(1.05);
+  }
+  
